@@ -1,4 +1,4 @@
-use strict';
+use strict;
 
 /**
  * This sample demonstrates a simple skill built with the Amazon Alexa Skills Kit.
