@@ -1,9 +1,14 @@
-#workflow
- giving a instruction to echo dot
- echo dot issue RESTful GET call
- nodejs in raspberry recieves the call
-nodejs tell the Infrared emitter to signal
-  
+
+
+## Workflow
+
+1. giving a instruction to echo dot
+2. echo dot issue RESTful GET call
+3. nodejs in raspberry recieves the call
+4. nodejs tell the Infrared emitter to signal
+
+
+
  
  
 # Stop lirc to free up /dev/lirc0
